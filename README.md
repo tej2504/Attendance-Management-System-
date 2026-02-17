@@ -1,5 +1,5 @@
 Name : R Tejashree 
-College Name : Vel Tech Rnagarajan Dr.Sagunthala R&D Institute of Science and Technology 
+                                              College Name : Vel Tech Rnagarajan Dr.Sagunthala R&D Institute of Science and Technology 
 Roll No : VTU21891 
 Contact : vtu21891@veltech.edu.in 
           7010213425
