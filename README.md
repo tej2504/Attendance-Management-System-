@@ -122,3 +122,14 @@ Employee:
 
 alice@company.com
 password123
+
+Instructions for viewing Video Demonstration Link : 
+
+1. Click the Loom link below 
+2. To view the Demo link , do not Sign-in to google when prompted by google. Continue viewing the Demo video without Sign-in. (or)
+3. Sign-in to loom completely , Log-in and then view this video for better experience. 
+
+Vedio Demonstration Link (Loom Link ): https://www.loom.com/share/e7f4fcd2b2964178be76b4219a61ab59
+
+
+
