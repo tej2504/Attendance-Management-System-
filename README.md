@@ -7,6 +7,8 @@ Contact : vtu21891@veltech.edu.in
 A full-stack Employee Attendance Management System designed to track daily attendance, monitor team performance, and generate analytical reports.
 The system supports role-based authentication for Employees and Managers with a clean corporate UI and real-time dashboard insights.
 
+Above i have included a complete documentation of the Screenshots and details of the required deliverables. (Attendance Management system Documentation)
+
 Features
 
 Employee Features
